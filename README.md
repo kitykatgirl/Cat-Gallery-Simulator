@@ -1,2 +1,8 @@
 # Cat-Gallery-Simulator
-meow meow meow meow meow meow meow meow meow meow
+peak peak peak
+
+aboslute peak cat gallerry
+
+made in C#
+
+raaaaaaaaaaaaah
